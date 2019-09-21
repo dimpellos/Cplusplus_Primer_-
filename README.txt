@@ -2,12 +2,13 @@
 					by dimpellos
 
 - Comments:
-    1) Solutions for these excercises were developed in Visual Studio.
+
+  1) Solutions for these excercises were developed in Visual Studio.
 
 
 - Instructions:
 
-1) In order to avoid warnings of Visual Studio for i.e. 'strcpy()'
+  1) In order to avoid warnings of Visual Studio for i.e. 'strcpy()'
   , do the following: 
   
   Go to --> ProjectProperties -> Configuration Properties -> C/C++ -> Preprocessor -> Preprocessor Definitions 
